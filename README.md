@@ -7,7 +7,7 @@
 - [Web scraping with RSelenium](#web-scraping-with-rselenium)
 This tutorial covers the basics of web scraping with R. We’ll begin with the scraping of static pages and shift the focus to the techniques that can be used for scraping data from dynamic websites that use JavaScript to render the content.
 
-For a detailed explanation, see [this blog post](https://oxylabs.io/blog/web-scraping-r). 
+For a detailed explanation, see [this blog post](https://oxy.yt/1r8m). 
 
 ## Installing requirements
 
@@ -139,4 +139,4 @@ df <- data.frame(titles, prices, stocks)
 write.csv(df, "books.csv")
 ```
 
-If you wish to find out more about web scraping with R, see our [blog post](https://oxylabs.io/blog/web-scraping-r).
+If you wish to find out more about web scraping with R, see our [blog post](https://oxy.yt/1r8m).
